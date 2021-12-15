@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SAt4qkIP9E34QQaiJeEBzaWOulA9u5Ywj9ABKTSfT7Kemiu6atS1s3O9yY1NblQsJnYcjpe3c5jzXb+ce59Nog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shalo\\source\\repos\\Blazor Web Assembly App\\Shared\\Blazor Web Assembly App.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shalo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\shalo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\shalo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

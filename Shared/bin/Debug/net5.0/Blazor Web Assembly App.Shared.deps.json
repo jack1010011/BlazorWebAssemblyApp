@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Blazor Web Assembly App.Shared/1.0.0": {
+        "runtime": {
+          "Blazor Web Assembly App.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blazor Web Assembly App.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

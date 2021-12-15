@@ -1,0 +1,60 @@
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Blazor_Web_Assembly_App.Client.StaticWebAssets.xml
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Blazor_Web_Assembly_App.Server.StaticWebAssets.xml
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Blazor_Web_Assembly_App.Server.exe
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Blazor_Web_Assembly_App.Server.deps.json
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Blazor_Web_Assembly_App.Server.runtimeconfig.json
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Blazor_Web_Assembly_App.Server.runtimeconfig.dev.json
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Blazor_Web_Assembly_App.Server.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\ref\Blazor_Web_Assembly_App.Server.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Blazor_Web_Assembly_App.Server.pdb
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Blazor_Web_Assembly_App.Server.Views.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Blazor_Web_Assembly_App.Server.Views.pdb
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Blazor Web Assembly App.Shared.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Blazor_Web_Assembly_App.Client.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Blazor_Web_Assembly_App.Client.pdb
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\bin\Debug\net5.0\Blazor Web Assembly App.Shared.pdb
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor Web Assembly App.Server.csproj.AssemblyReference.cache
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor Web Assembly App.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor Web Assembly App.Server.AssemblyInfoInputs.cache
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor Web Assembly App.Server.AssemblyInfo.cs
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor Web Assembly App.Server.csproj.CoreCompileInputs.cache
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor_Web_Assembly_App.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor Web Assembly App.Server.RazorAssemblyInfo.cache
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor Web Assembly App.Server.RazorAssemblyInfo.cs
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\scopedcss\bundle\Blazor_Web_Assembly_App.Server.styles.css
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\staticwebassets\Blazor_Web_Assembly_App.Server.StaticWebAssets.Manifest.cache
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\staticwebassets\Blazor_Web_Assembly_App.Server.StaticWebAssets.xml
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor_Web_Assembly_App.Server.TagHelpers.input.cache
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor_Web_Assembly_App.Server.TagHelpers.output.cache
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor Web Assembly App.Server.RazorCoreGenerate.cache
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor Web Assembly App.Server.RazorTargetAssemblyInfo.cache
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor Web Assembly App.Server.RazorTargetAssemblyInfo.cs
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor_Web_Assembly_App.Server.Views.pdb
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor Web Assembly App.Server.csproj.CopyComplete
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor_Web_Assembly_App.Server.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\ref\Blazor_Web_Assembly_App.Server.dll
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor_Web_Assembly_App.Server.pdb
+C:\Users\shalo\source\repos\Blazor Web Assembly App\Server\obj\Debug\net5.0\Blazor Web Assembly App.Server.genruntimeconfig.cache
